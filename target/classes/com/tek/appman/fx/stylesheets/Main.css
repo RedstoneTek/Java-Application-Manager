@@ -1,0 +1,24 @@
+.root * {
+	-fx-text-fill: #ECEFF1;
+	-fx-font: 16px System;
+}
+
+.sidebar-pane {
+	-fx-background-color: #2f3640;
+}
+
+.center-pane {
+	-fx-background-color: #353b48;
+}
+
+.btn-start {
+	-fx-background-color: #4cd137;
+}
+
+.btn-stop {
+	-fx-background-color: #e84118;
+}
+
+.input {
+	-fx-background-color: #2f3640;
+}
